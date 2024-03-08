@@ -1,5 +1,7 @@
 # Income-State-Dashboard
 
+Key Skills: Excel, PowerBI, Python
+
 
 
 Key Features:
