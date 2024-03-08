@@ -2,6 +2,7 @@
 
 Key Skills: Excel, PowerBI, Python
 
+![Income Statement Dashboard Screenshot](https://github.com/pavan2131/Income-State-Dashboard/blob/main/Screenshot_2023-12-28-00-52-30-999_com.linkedin.android.jpg)
 
 
 Key Features:
